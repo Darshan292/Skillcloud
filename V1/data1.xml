@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<wd:Report_Data xmlns:wd="urn:com.workday.report/CR_All_Job_Applications">
+  <wd:Report_Entry>
+    <wd:Job_Requisition wd:Descriptor="R-00115 Student Recruiter (Filled)">
+      <wd:ID wd:type="WID">d3fd6c7cdbf1101b0c0d1e91ac822123</wd:ID>
+      <wd:ID wd:type="Job_Requisition_ID">R-00115</wd:ID>
+    </wd:Job_Requisition>
+    <wd:Job_Requisition_group>
+      <wd:Reference_ID>R-00115</wd:Reference_ID>
+      <wd:Job_Description_Summary>Python developer with experience in deploying machine learning models to AWS SageMaker or GCP Platform. The ideal candidate should have experience with data pipelines,AWS (Lambda, EC2), Docker, Kubernetes and understand cloud-based deployment of AI services.</wd:Job_Description_Summary>
+      <wd:Hiring_Manager wd:Descriptor="Karen Bateman">
+        <wd:ID wd:type="WID">7ca4b8399ee343a2bf1df798cfcf201d</wd:ID>
+        <wd:ID wd:type="Employee_ID">00123</wd:ID>
+      </wd:Hiring_Manager>
+      <wd:Number_of_Openings_Available>0</wd:Number_of_Openings_Available>
+    </wd:Job_Requisition_group>
+    <wd:Candidate wd:Descriptor="Alice Johnson ‎- R-00115 Student Recruiter">
+      <wd:ID wd:type="WID">d3fd6c7cdbf1901b0c6d83b116922279</wd:ID>
+      <wd:ID wd:type="Job_Application_ID">JOB_APPLICATION-16-31</wd:ID>
+    </wd:Candidate>
+    <wd:Candidate_Stage wd:Descriptor="Hire">
+      <wd:ID wd:type="WID">edd55803e2ec49c3a6eb01daadfc9bf9</wd:ID>
+      <wd:ID wd:type="Recruiting_Stage_ID">HIRED</wd:ID>
+    </wd:Candidate_Stage>
+    <wd:attachments_group>
+      <wd:referenceID>RESUME_ATTACHMENT-16-31</wd:referenceID>
+      <wd:fileName>Alice_Johnson.pdf</wd:fileName>
+      <wd:Base64>JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9MZW5ndGggNjcyPj4Kc3RyZWFtCnicjVRLb+IwEL73V8yx1RKTlxPgtKWlUrtdqWpY9dKLSUwxJHbkOLRI++N37AAFla24QF6T7zkJ4eHCJzSF94vxFPp3AQQJ8X2YzmEytZeigARDSIexfWhawOV1KXIOD2ohGyWvYLrcPti/CyEIT82mPgmpm824FErDA1szGLN8xWUBt3zNS1VzffCu7SD1SRy4QWZBybID/ck/WFWXnOSqgr/wekkpfb1C8MiLaZLipUchV7y4lyMo3ZGQ9tm+kH33ouUJ8ig8PkU+DEjcCc9WoiybsxT7lPiJG7JSe5DVWsg3GCtlevA8yaZw/XTf9OC3yLVquF4jKTy9fslQzeQmxImoB4+smhXs9aoHtwq90j341c64ltzw5hzuySAg6cDRmHygwYLLnH/DPyZJgHa/H7whoSTq1HsQ+qHv4U8y+podMANTni9e2JrDvcwJePubBTQ5K9ms5FAd6oW52mfuH8PGgx0s9zC4imusXF0ygyMVtI0105WIIYkDcwk8Ilwl3jQzQkkwynmal6otQMi5Zo3RbW5azckOOiLUNvsQHv+iZK86SK1qf9QhHknO1NxkqmwtWIOSx60ojQt43pYuY8dQSMMtJeRmFkIXXs202fxHO0YZdduyM4qcEzYdBsTvPJsUbe70n9NVmmLsndgxyTC4G1XVrUF9We4K04M/Uqy5boTZgJrDDa4QxiAF9hrNSc4iR9HRoQN50mrJc/PdHoVfEqFRTIaDbSKTz0oc7Q+ebXMfbQ9tF5RUpUDX821h6tq24riI2BSsyek8aJCSYedr17tuF12un+tIvny8qO+T4a5Ez5yVnhGV3Y01l0bpDWQd+ggb1Yg3iVwtQW/GGrsx3U1YIExpUam/+gFGM9mw3LWtX7DNHvUfcoOmmQplbmRzdHJlYW0KZW5kb2JqCjEgMCBvYmoKPDwvVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSIF0KL0NvdW50IDEKL01lZGlhQm94IFswIDAgNTk1LjI4IDg0MS44OV0KPj4KZW5kb2JqCjUgMCBvYmoKPDwvVHlwZSAvRm9udAovQmFzZUZvbnQgL0hlbHZldGljYS1Cb2xkCi9TdWJ0eXBlIC9UeXBlMQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKNiAwIG9iago8PC9UeXBlIC9Gb250Ci9CYXNlRm9udCAvSGVsdmV0aWNhCi9TdWJ0eXBlIC9UeXBlMQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKMiAwIG9iago8PAovUHJvY1NldCBbL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSV0KL0ZvbnQgPDwKL0YxIDUgMCBSCi9GMiA2IDAgUgo+PgovWE9iamVjdCA8PAo+Pgo+PgplbmRvYmoKNyAwIG9iago8PAovUHJvZHVjZXIgKFB5RlBERiAxLjcuMiBodHRwOi8vcHlmcGRmLmdvb2dsZWNvZGUuY29tLykKL0NyZWF0aW9uRGF0ZSAoRDoyMDI2MDMzMTE1NTg1MikKPj4KZW5kb2JqCjggMCBvYmoKPDwKL1R5cGUgL0NhdGFsb2cKL1BhZ2VzIDEgMCBSCi9PcGVuQWN0aW9uIFszIDAgUiAvRml0SCBudWxsXQovUGFnZUxheW91dCAvT25lQ29sdW1uCj4+CmVuZG9iagp4cmVmCjAgOQowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDA4MjkgMDAwMDAgbiAKMDAwMDAwMTExMyAwMDAwMCBuIAowMDAwMDAwMDA5IDAwMDAwIG4gCjAwMDAwMDAwODcgMDAwMDAgbiAKMDAwMDAwMDkxNiAwMDAwMCBuIAowMDAwMDAxMDE3IDAwMDAwIG4gCjAwMDAwMDEyMjcgMDAwMDAgbiAKMDAwMDAwMTMzNiAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9TaXplIDkKL1Jvb3QgOCAwIFIKL0luZm8gNyAwIFIKPj4Kc3RhcnR4cmVmCjE0MzkKJSVFT0YK</wd:Base64>
+    </wd:attachments_group>
+  </wd:Report_Entry>
+  <wd:Report_Entry>
+    <wd:Job_Requisition wd:Descriptor="R-00115 Student Recruiter (Filled)">
+      <wd:ID wd:type="WID">d3fd6c7cdbf1101b0c0d1e91ac822123</wd:ID>
+      <wd:ID wd:type="Job_Requisition_ID">R-00115</wd:ID>
+    </wd:Job_Requisition>
+    <wd:Job_Requisition_group>
+      <wd:Reference_ID>R-00115</wd:Reference_ID>
+      <wd:Job_Description_Summary>Python developer with experience in deploying machine learning models to AWS SageMaker or GCP Platform. The ideal candidate should have experience with data pipelines,AWS (Lambda, EC2), Docker, Kubernetes and understand cloud-based deployment of AI services.</wd:Job_Description_Summary>
+      <wd:Hiring_Manager wd:Descriptor="Karen Bateman">
+        <wd:ID wd:type="WID">7ca4b8399ee343a2bf1df798cfcf201d</wd:ID>
+        <wd:ID wd:type="Employee_ID">00124</wd:ID>
+      </wd:Hiring_Manager>
+      <wd:Number_of_Openings_Available>0</wd:Number_of_Openings_Available>
+    </wd:Job_Requisition_group>
+    <wd:Candidate wd:Descriptor="Brian Lee ‎- R-00115 Student Recruiter">
+      <wd:ID wd:type="WID">32b25c2287a6901be8c63489184a01e7</wd:ID>
+      <wd:ID wd:type="Job_Application_ID">JOB_APPLICATION-16-32</wd:ID>
+    </wd:Candidate>
+    <wd:Candidate_Stage wd:Descriptor="Declined by Candidate">
+      <wd:ID wd:type="WID">6ceb443402a444b49c9e3060c9daeaeb</wd:ID>
+      <wd:ID wd:type="Recruiting_Stage_ID">DECLINED</wd:ID>
+    </wd:Candidate_Stage>
+    <wd:attachments_group>
+      <wd:referenceID>RESUME_ATTACHMENT-16-32</wd:referenceID>
+      <wd:fileName>Brian_Lee.pdf</wd:fileName>
+      <wd:Base64>JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9MZW5ndGggNjE2Pj4Kc3RyZWFtCnicjZRNT+MwEIbv/Io5gtSafDltelrKFhYWpK6aIxc3mQbTxK4ch1Jpf/yOkxTo8qGeYjkz9vu+8yQB3J54jI9gezJN4fzKBz9mngfpCmap2wp95icwSiJXlOZwOjVSKLhDPIP0qS86vwrADz7rG3ks4G3ffGcftYKfwgqYqUIqRPPuiL6eeyzy2/qlu4eViD/wRVSbElmmK/gLD6ec84czCMJoyOPRmLaupf3VLCdQSPvYLF3dedtd/ieSzEWfiQx8FnXmFmtZlvVRzjzOvPidswHMhcpFTc/dYiPMegAX0qxKvR3A9eWcdE9l8adBsxu0Ibg3D2e01tkazQB+N0s0Ci3Wx2iOxz4j7+762csGjUSVfTcRijWKIN2+OyHmLOxcDyHw/GQYeEE8ORwQCNtu3EuV1zCEaSNLC7kr2cgNllRUg1TQD5cC2LuHlaZuJcqdldmrJe9QQjTeS3CdBjfaWKkKoKMoMrbvCljkJYed9AjjN/Hx0DmYwG2jJN37wcONWumFNSgqMnFR17K2mDvhs/QOcnzGUm8qVLZ14OwtRY1fiKZ5hB3SFfkr0PWxY2bGE595nd1Z3mTCSq2OQY2PIhZ3ZqdskbHWjanafljsyEpF1N3fpIM2iqOkcMov6eg1+gkz+x30PgvC4CAEHkYsGff5L0RJFFzsZw3zngxiqUsW8z0gb9B0I+4oKQqDhWgnX7dntYCJzOj6C3K4P2JJFyW1Ug41+/Av4Z7Hkj0jl01tdUUwTPFRPDtGWr0EwgRu3N/FTZF09p8sbLVZu0XdKiRwyqGVFfboG50hQaSK11v/AYcGefsKZW5kc3RyZWFtCmVuZG9iagoxIDAgb2JqCjw8L1R5cGUgL1BhZ2VzCi9LaWRzIFszIDAgUiBdCi9Db3VudCAxCi9NZWRpYUJveCBbMCAwIDU5NS4yOCA4NDEuODldCj4+CmVuZG9iago1IDAgb2JqCjw8L1R5cGUgL0ZvbnQKL0Jhc2VGb250IC9IZWx2ZXRpY2EtQm9sZAovU3VidHlwZSAvVHlwZTEKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjYgMCBvYmoKPDwvVHlwZSAvRm9udAovQmFzZUZvbnQgL0hlbHZldGljYQovU3VidHlwZSAvVHlwZTEKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1Byb2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUldCi9Gb250IDw8Ci9GMSA1IDAgUgovRjIgNiAwIFIKPj4KL1hPYmplY3QgPDwKPj4KPj4KZW5kb2JqCjcgMCBvYmoKPDwKL1Byb2R1Y2VyIChQeUZQREYgMS43LjIgaHR0cDovL3B5ZnBkZi5nb29nbGVjb2RlLmNvbS8pCi9DcmVhdGlvbkRhdGUgKEQ6MjAyNjAzMzExNTU4NTIpCj4+CmVuZG9iago4IDAgb2JqCjw8Ci9UeXBlIC9DYXRhbG9nCi9QYWdlcyAxIDAgUgovT3BlbkFjdGlvbiBbMyAwIFIgL0ZpdEggbnVsbF0KL1BhZ2VMYXlvdXQgL09uZUNvbHVtbgo+PgplbmRvYmoKeHJlZgowIDkKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwNzczIDAwMDAwIG4gCjAwMDAwMDEwNTcgMDAwMDAgbiAKMDAwMDAwMDAwOSAwMDAwMCBuIAowMDAwMDAwMDg3IDAwMDAwIG4gCjAwMDAwMDA4NjAgMDAwMDAgbiAKMDAwMDAwMDk2MSAwMDAwMCBuIAowMDAwMDAxMTcxIDAwMDAwIG4gCjAwMDAwMDEyODAgMDAwMDAgbiAKdHJhaWxlcgo8PAovU2l6ZSA5Ci9Sb290IDggMCBSCi9JbmZvIDcgMCBSCj4+CnN0YXJ0eHJlZgoxMzgzCiUlRU9GCg==</wd:Base64>
+    </wd:attachments_group>
+  </wd:Report_Entry>
+  <wd:Report_Entry>
+    <wd:Job_Requisition wd:Descriptor="R-00115 Student Recruiter (Filled)">
+      <wd:ID wd:type="WID">d3fd6c7cdbf1101b0c0d1e91ac822123</wd:ID>
+      <wd:ID wd:type="Job_Requisition_ID">R-00115</wd:ID>
+    </wd:Job_Requisition>
+    <wd:Job_Requisition_group>
+      <wd:Reference_ID>R-00115</wd:Reference_ID>
+      <wd:Job_Description_Summary>Python developer with experience in deploying machine learning models to AWS SageMaker or GCP Platform. The ideal candidate should have experience with data pipelines,AWS (Lambda, EC2), Docker, Kubernetes and understand cloud-based deployment of AI services.</wd:Job_Description_Summary>
+      <wd:Hiring_Manager wd:Descriptor="Karen Bateman">
+        <wd:ID wd:type="WID">7ca4b8399ee343a2bf1df798cfcf201f</wd:ID>
+        <wd:ID wd:type="Employee_ID">00125</wd:ID>
+      </wd:Hiring_Manager>
+      <wd:Number_of_Openings_Available>0</wd:Number_of_Openings_Available>
+    </wd:Job_Requisition_group>
+    <wd:Candidate wd:Descriptor="Carla Smith ‎- R-00115 Student Recruiter">
+      <wd:ID wd:type="WID">32b25c2287a6901be8c63489184a0fh7</wd:ID>
+      <wd:ID wd:type="Job_Application_ID">JOB_APPLICATION-16-33</wd:ID>
+    </wd:Candidate>
+    <wd:Candidate_Stage wd:Descriptor="Declined by Candidate">
+      <wd:ID wd:type="WID">6ceb443402a444b49c9e3060c9daeabv</wd:ID>
+      <wd:ID wd:type="Recruiting_Stage_ID">DECLINED</wd:ID>
+    </wd:Candidate_Stage>
+    <wd:attachments_group>
+      <wd:referenceID>RESUME_ATTACHMENT-16-33</wd:referenceID>
+      <wd:fileName>Carla_Smith.pdf</wd:fileName>
+      <wd:Base64>JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9MZW5ndGggNTg2Pj4Kc3RyZWFtCnicjVPPT9swFL7zV7wjSKnrpHGa9LTRFgkGE1oyceFiktfONLEjx21B2h8/Ow6FbmjqKdHz8/t+vM8R3JxRwqawP7ssYHwVQpgQSqFYwbJwpUlIwgymWeyaigrO51zXHPJGmF8XUDwPbeOrCMLos5tTSiLW37zhOw7zWm0rWOAOa9Wi/jBi6GeUxGHfXzok0jmkL/jCm7ZGUqoGfsPjOWPs8QImMRsl0zSzpVshN1hdyxnU/Z+Qrncs5Lgf0x1xtSrjz7hGIYm9ynwj6ro7SSBlhCYHgQHkrRZy7YUG8PUht3RvefNU2bPlPA/gxyJ/vAhgocoN6gAK1JqvlG4C+LZ9Qi3R4El0kzQk07RHXr5YLwXKEv9DmZLMqdt/mJAwMvGCRxDRMB1FNEpmfy8JuPGlB6U3HYwOJxWUrjyS3IgdQr9g3ra1KG1ByQ6UdAa8caLH4HH6Br63K4b59Xi+gFa0aDeIHfknGon9TJJ3tmzkKM887BHZ72hytTKW6eVW1AZQGtR2LR0e09t2blP9/eWSnOQ5TQkdPK+2fs4pKWFZSBIv9o7kJQHHb881wlKurVx0mbHZMVzaKFTwU1pDdSfMa9BLPYUbS1IS0x7jXqtnLM1JAWYsJFk22Jqjtrg1dh3c89fGGteXRImzwUsXaB9nWG1l6Y0U0rtouUM73Gu1Ku0cq+vgbEIm9DiBbBKTLB3AfezulBRG9W+oUKqefUjbW8AsnsG15sbW+uy8P5yeQnMY8Xn0WDglmd9GI0qtOi/xPXN/ANhNboAKZW5kc3RyZWFtCmVuZG9iagoxIDAgb2JqCjw8L1R5cGUgL1BhZ2VzCi9LaWRzIFszIDAgUiBdCi9Db3VudCAxCi9NZWRpYUJveCBbMCAwIDU5NS4yOCA4NDEuODldCj4+CmVuZG9iago1IDAgb2JqCjw8L1R5cGUgL0ZvbnQKL0Jhc2VGb250IC9IZWx2ZXRpY2EtQm9sZAovU3VidHlwZSAvVHlwZTEKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjYgMCBvYmoKPDwvVHlwZSAvRm9udAovQmFzZUZvbnQgL0hlbHZldGljYQovU3VidHlwZSAvVHlwZTEKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1Byb2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUldCi9Gb250IDw8Ci9GMSA1IDAgUgovRjIgNiAwIFIKPj4KL1hPYmplY3QgPDwKPj4KPj4KZW5kb2JqCjcgMCBvYmoKPDwKL1Byb2R1Y2VyIChQeUZQREYgMS43LjIgaHR0cDovL3B5ZnBkZi5nb29nbGVjb2RlLmNvbS8pCi9DcmVhdGlvbkRhdGUgKEQ6MjAyNjAzMzExNTU4NTIpCj4+CmVuZG9iago4IDAgb2JqCjw8Ci9UeXBlIC9DYXRhbG9nCi9QYWdlcyAxIDAgUgovT3BlbkFjdGlvbiBbMyAwIFIgL0ZpdEggbnVsbF0KL1BhZ2VMYXlvdXQgL09uZUNvbHVtbgo+PgplbmRvYmoKeHJlZgowIDkKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwNzQzIDAwMDAwIG4gCjAwMDAwMDEwMjcgMDAwMDAgbiAKMDAwMDAwMDAwOSAwMDAwMCBuIAowMDAwMDAwMDg3IDAwMDAwIG4gCjAwMDAwMDA4MzAgMDAwMDAgbiAKMDAwMDAwMDkzMSAwMDAwMCBuIAowMDAwMDAxMTQxIDAwMDAwIG4gCjAwMDAwMDEyNTAgMDAwMDAgbiAKdHJhaWxlcgo8PAovU2l6ZSA5Ci9Sb290IDggMCBSCi9JbmZvIDcgMCBSCj4+CnN0YXJ0eHJlZgoxMzUzCiUlRU9GCg==</wd:Base64>
+    </wd:attachments_group>
+  </wd:Report_Entry>
+  <wd:Report_Entry>
+    <wd:Job_Requisition wd:Descriptor="R-00115 Student Recruiter (Filled)">
+      <wd:ID wd:type="WID">d3fd6c7cdbf1101b0c0d1hg1ac8hg123</wd:ID>
+      <wd:ID wd:type="Job_Requisition_ID">R-00115</wd:ID>
+    </wd:Job_Requisition>
+    <wd:Job_Requisition_group>
+      <wd:Reference_ID>R-00115</wd:Reference_ID>
+      <wd:Job_Description_Summary>Python developer with experience in deploying machine learning models to AWS SageMaker or GCP Platform. The ideal candidate should have experience with data pipelines,AWS (Lambda, EC2), Docker, Kubernetes and understand cloud-based deployment of AI services.</wd:Job_Description_Summary>
+      <wd:Hiring_Manager wd:Descriptor="Karen Bateman">
+        <wd:ID wd:type="WID">7ca4b8399ee343ytbf1df798cfcjh01d</wd:ID>
+        <wd:ID wd:type="Employee_ID">00126</wd:ID>
+      </wd:Hiring_Manager>
+      <wd:Number_of_Openings_Available>0</wd:Number_of_Openings_Available>
+    </wd:Job_Requisition_group>
+    <wd:Candidate wd:Descriptor="Matthew Butler ‎- R-00115 Student Recruiter">
+      <wd:ID wd:type="WID">32b25c2287a6901bkjc63489184a01e7</wd:ID>
+      <wd:ID wd:type="Job_Application_ID">JOB_APPLICATION-16-32</wd:ID>
+    </wd:Candidate>
+    <wd:Candidate_Stage wd:Descriptor="Declined by Candidate">
+      <wd:ID wd:type="WID">6ceb443402a444bkjc9e3060c9daeaeb</wd:ID>
+      <wd:ID wd:type="Recruiting_Stage_ID">DECLINED</wd:ID>
+    </wd:Candidate_Stage>
+    <wd:attachments_group>
+      <wd:referenceID>RESUME_ATTACHMENT-16-32</wd:referenceID>
+      <wd:fileName>David_Kim.pdf</wd:fileName>
+      <wd:Base64>JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9MZW5ndGggNjM5Pj4Kc3RyZWFtCnicjVTNb9owFL/3r3iXSa0ExglxQjitpbTrNhAa2XbpxXUMuDgJcxwo0v74PSfQhqmbOEWy3sfv68WHzxeUsAh2FzcJ9O488EJCKSQLGCfuqe8RL4YoDlxRksLlLd+qFL6o7AqS50NR784Hz3+vL6LEZ3XfbG9XRQ7XD73JV7iVW6mLjTStIYcORkng1R2p20TWKvsoX3i20ZKIIoPf8HjJGHu8goCF3WgQU3y6V/ZT9TSEpbKr6snV9eru9V8wkV7wHkzfI0FDb75WWpdncaOM0LDFrQOJzMvC3Oli14HZPimMWHWgFGqtbFdLbrDk+ucc5nwpJ3wtTQfuRzOUBGaa20VhzgIbDjwSDeq94xeUUMlcyP8A7pMoQJi71oSQkX5Dtws+9eKuT/1w6ICM86XKpTTALcwzbuwPVSq0rftqWQroX1akUpeAkEFlyAaMFMUyV9bV8jw9wqGne4PBce/GyFQJq7YSy7neWyVKqEqVL6ERk7yOIDQYnI7BTz98gx91HYch3HLLYS5QD6tK6xhMZWW4nkoLo4Igh5tKaQsZFyskCbUjbuNGbaTGl9JBB7nluuIWidYs/0EFrek3wUYLnHUcXSDn+Mdij9BGhXFaCe40OydvLApI2NCekLkgLb5CdmCEZORSSZhIrdGF7zmKa0pl951apLOgMVQ2biJtimcp7FmXwPoBiQcHQx7qPHxr5WHiZBxCYjhqnMJoOj1a/XYvYAsQmpelWuybSJWww2OGmH0ALgT6KPav8jLiub9Ryw/mRSQ+Rnr2Fq4J7rQyd+ZgQORGF/uTBLs/Uvsi60jLX5XaZBgjWHClKyPfzwCjlMThSZxbuf0Dh+yACwplbmRzdHJlYW0KZW5kb2JqCjEgMCBvYmoKPDwvVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSIF0KL0NvdW50IDEKL01lZGlhQm94IFswIDAgNTk1LjI4IDg0MS44OV0KPj4KZW5kb2JqCjUgMCBvYmoKPDwvVHlwZSAvRm9udAovQmFzZUZvbnQgL0hlbHZldGljYS1Cb2xkCi9TdWJ0eXBlIC9UeXBlMQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKNiAwIG9iago8PC9UeXBlIC9Gb250Ci9CYXNlRm9udCAvSGVsdmV0aWNhCi9TdWJ0eXBlIC9UeXBlMQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKMiAwIG9iago8PAovUHJvY1NldCBbL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSV0KL0ZvbnQgPDwKL0YxIDUgMCBSCi9GMiA2IDAgUgo+PgovWE9iamVjdCA8PAo+Pgo+PgplbmRvYmoKNyAwIG9iago8PAovUHJvZHVjZXIgKFB5RlBERiAxLjcuMiBodHRwOi8vcHlmcGRmLmdvb2dsZWNvZGUuY29tLykKL0NyZWF0aW9uRGF0ZSAoRDoyMDI2MDMzMTE1NTg1MikKPj4KZW5kb2JqCjggMCBvYmoKPDwKL1R5cGUgL0NhdGFsb2cKL1BhZ2VzIDEgMCBSCi9PcGVuQWN0aW9uIFszIDAgUiAvRml0SCBudWxsXQovUGFnZUxheW91dCAvT25lQ29sdW1uCj4+CmVuZG9iagp4cmVmCjAgOQowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDA3OTYgMDAwMDAgbiAKMDAwMDAwMTA4MCAwMDAwMCBuIAowMDAwMDAwMDA5IDAwMDAwIG4gCjAwMDAwMDAwODcgMDAwMDAgbiAKMDAwMDAwMDg4MyAwMDAwMCBuIAowMDAwMDAwOTg0IDAwMDAwIG4gCjAwMDAwMDExOTQgMDAwMDAgbiAKMDAwMDAwMTMwMyAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9TaXplIDkKL1Jvb3QgOCAwIFIKL0luZm8gNyAwIFIKPj4Kc3RhcnR4cmVmCjE0MDYKJSVFT0YK</wd:Base64>
+    </wd:attachments_group>
+  </wd:Report_Entry>
+  <wd:Report_Entry>
+    <wd:Job_Requisition wd:Descriptor="R-00115 Student Recruiter (Filled)">
+      <wd:ID wd:type="WID">d3fd6c7cdbf1101b0c0ddk91ac822123</wd:ID>
+      <wd:ID wd:type="Job_Requisition_ID">R-00115</wd:ID>
+    </wd:Job_Requisition>
+    <wd:Job_Requisition_group>
+      <wd:Reference_ID>R-00115</wd:Reference_ID>
+      <wd:Job_Description_Summary>Python developer with experience in deploying machine learning models to AWS SageMaker or GCP Platform. The ideal candidate should have experience with data pipelines,AWS (Lambda, EC2), Docker, Kubernetes and understand cloud-based deployment of AI services.</wd:Job_Description_Summary>
+      <wd:Hiring_Manager wd:Descriptor="Karen Bateman">
+        <wd:ID wd:type="WID">7ca4b8399ee343a2bdk1df798cfcf201d</wd:ID>
+        <wd:ID wd:type="Employee_ID">00123</wd:ID>
+      </wd:Hiring_Manager>
+      <wd:Number_of_Openings_Available>0</wd:Number_of_Openings_Available>
+    </wd:Job_Requisition_group>
+    <wd:Candidate wd:Descriptor="Matthew Butler ‎- R-00115 Student Recruiter">
+      <wd:ID wd:type="WID">32b25c2287a6901bdmc63489184a01e7</wd:ID>
+      <wd:ID wd:type="Job_Application_ID">JOB_APPLICATION-16-32</wd:ID>
+    </wd:Candidate>
+    <wd:Candidate_Stage wd:Descriptor="Declined by Candidate">
+      <wd:ID wd:type="WID">6ceb443402a44dk49c9e3060c9daeaeb</wd:ID>
+      <wd:ID wd:type="Recruiting_Stage_ID">DECLINED</wd:ID>
+    </wd:Candidate_Stage>
+    <wd:attachments_group>
+      <wd:referenceID>RESUME_ATTACHMENT-16-32</wd:referenceID>
+      <wd:fileName>Emily_Zhang.pdf</wd:fileName>
+      <wd:Base64>JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9MZW5ndGggNjI2Pj4Kc3RyZWFtCnicjVNJb6MwFL73V7xjIxHHEAwhp2mWVu10Fg2MRhrl4sBr6wZsBCZpqvnxY5Zs3dQTyHrLtz0Hbs4oYT5sziYRDC5tsD1CKUR3MI/qp6FN7AD8wK2LogTO55lIt/D3gcv7HkSPXdng0gHbeavTp8RhTecNX3OY4fpHXsJc3guJWByN6OoZJa7d1GO9iTzXm77gE8/yFEmsMvgHi3PG2KIHzPP7o4Da5ulWyBUm13IMafMnZF07EHLQjHl+hdcwdd/C69jEbZmGK5Gm5QckXeLQAKLNUTdlhHp7thaEeSHkPUyU0hZc/AkN9PnUseDXLLRgmqoquVRFxrVQctGzYKbiFRYWfK2WWEjUWJqq68F0ZvpuUK6ELK0dIHqy2RuNCG11vhL6li8Xvc/Q9TyX+J2xTzkWAmWMH1Cm5vfFYndEhu2EPjjU9voOdbzxS6OBa/iOT/oKJYQqrWrGJfThurY1Q6kx6ZjmIkfjIZbAZQK80srog8k7tM1n2AqeYJ6qbT2qhDtVQBM3nuepiBt9S/IqbJ7RZMgO2N1+TWAMu6RiqvIW+lQlOOElGsS79wSW3LhlMJZYrEWM7doNLt/d+q4NLLAJ7WxIqrbzM9fFfJd4Lf0JCWNicGZ5pQ3mne4mfRb8lmKNRSn0FtQdROaYTK5qvp/CxozEQbPjZ6EeMdYf3cSQOM7oxCI2dEkw6kS+2NlpZNzZBeG21JiNYVKJVEOX86Mc7N3MRFyovdpKNhdlUvJ2Npjtk6AV9XBPr0PAKCWB1+H7pqTQqrnZGS8flooXyRimBTaYD2P6SxOGBLJDeQ0yq1ItTJ5Pge5X/gf91YfGCmVuZHN0cmVhbQplbmRvYmoKMSAwIG9iago8PC9UeXBlIC9QYWdlcwovS2lkcyBbMyAwIFIgXQovQ291bnQgMQovTWVkaWFCb3ggWzAgMCA1OTUuMjggODQxLjg5XQo+PgplbmRvYmoKNSAwIG9iago8PC9UeXBlIC9Gb250Ci9CYXNlRm9udCAvSGVsdmV0aWNhLUJvbGQKL1N1YnR5cGUgL1R5cGUxCi9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nCj4+CmVuZG9iago2IDAgb2JqCjw8L1R5cGUgL0ZvbnQKL0Jhc2VGb250IC9IZWx2ZXRpY2EKL1N1YnR5cGUgL1R5cGUxCi9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nCj4+CmVuZG9iagoyIDAgb2JqCjw8Ci9Qcm9jU2V0IFsvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJXQovRm9udCA8PAovRjEgNSAwIFIKL0YyIDYgMCBSCj4+Ci9YT2JqZWN0IDw8Cj4+Cj4+CmVuZG9iago3IDAgb2JqCjw8Ci9Qcm9kdWNlciAoUHlGUERGIDEuNy4yIGh0dHA6Ly9weWZwZGYuZ29vZ2xlY29kZS5jb20vKQovQ3JlYXRpb25EYXRlIChEOjIwMjYwMzMxMTU1ODUyKQo+PgplbmRvYmoKOCAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMSAwIFIKL09wZW5BY3Rpb24gWzMgMCBSIC9GaXRIIG51bGxdCi9QYWdlTGF5b3V0IC9PbmVDb2x1bW4KPj4KZW5kb2JqCnhyZWYKMCA5CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDc4MyAwMDAwMCBuIAowMDAwMDAxMDY3IDAwMDAwIG4gCjAwMDAwMDAwMDkgMDAwMDAgbiAKMDAwMDAwMDA4NyAwMDAwMCBuIAowMDAwMDAwODcwIDAwMDAwIG4gCjAwMDAwMDA5NzEgMDAwMDAgbiAKMDAwMDAwMTE4MSAwMDAwMCBuIAowMDAwMDAxMjkwIDAwMDAwIG4gCnRyYWlsZXIKPDwKL1NpemUgOQovUm9vdCA4IDAgUgovSW5mbyA3IDAgUgo+PgpzdGFydHhyZWYKMTM5MwolJUVPRgo=</wd:Base64>
+    </wd:attachments_group>
+  </wd:Report_Entry>
+  <wd:Report_Entry>
+    <wd:Job_Requisition wd:Descriptor="R-00115 Student Recruiter (Filled)">
+      <wd:ID wd:type="WID">d3fd6c7cdbf1101b0cdk1e91ac822123</wd:ID>
+      <wd:ID wd:type="Job_Requisition_ID">R-00115</wd:ID>
+    </wd:Job_Requisition>
+    <wd:Job_Requisition_group>
+      <wd:Reference_ID>R-00115</wd:Reference_ID>
+      <wd:Job_Description_Summary>Python developer with experience in deploying machine learning models to AWS SageMaker or GCP Platform. The ideal candidate should have experience with data pipelines,AWS (Lambda, EC2), Docker, Kubernetes and understand cloud-based deployment of AI services.</wd:Job_Description_Summary>
+      <wd:Hiring_Manager wd:Descriptor="Karen Bateman">
+        <wd:ID wd:type="WID">7ca4b8399ee343a2sk1df798cfcf201d</wd:ID>
+        <wd:ID wd:type="Employee_ID">00123</wd:ID>
+      </wd:Hiring_Manager>
+      <wd:Number_of_Openings_Available>0</wd:Number_of_Openings_Available>
+    </wd:Job_Requisition_group>
+    <wd:Candidate wd:Descriptor="Matthew Butler ‎- R-00115 Student Recruiter">
+      <wd:ID wd:type="WID">32b25c2287a690ske8c63489184a01e7</wd:ID>
+      <wd:ID wd:type="Job_Application_ID">JOB_APPLICATION-16-32</wd:ID>
+    </wd:Candidate>
+    <wd:Candidate_Stage wd:Descriptor="Declined by Candidate">
+      <wd:ID wd:type="WID">6ceb443402a4skb49c9e3060c9daeaeb</wd:ID>
+      <wd:ID wd:type="Recruiting_Stage_ID">DECLINED</wd:ID>
+    </wd:Candidate_Stage>
+    <wd:attachments_group>
+      <wd:referenceID>RESUME_ATTACHMENT-16-32</wd:referenceID>
+      <wd:fileName>Frank_Rivera.pdf</wd:fileName>
+      <wd:Base64>JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9MZW5ndGggNjEyPj4Kc3RyZWFtCnicjVTbbtowGL7vU/yXRQvGDnFCuFo5dZ2qiRGmahI3JjGQktjIdqCV9vBzDhQ6uoqrSPZ/+E6OC99vMKIBHG4Gc+hMCBAfYQzzFYzn5VGXIBJCEHpl0TyB24liYguzdM8Va8H8uanrTFwg7ketAUYurVqnr2YjBQxYvOUigRHf80zuuDob0/RQjDxS9azKdUhV677yF5bvMo5imcMfWNxSShct8INeO8TEtUf3qflWLPuwTs2mWJZ1nWqAuoRrmXofwXUJ8mqm0TbNMn0VR0wR9s84OjB6ZmItHZhkTG8dmEpt1opHPx8duHuKLPZHli8T5sB46DowG0WLlm2SVhnlwP1wCsNMFglMChGbVAp9DXa/R1DQq2CMX6yuKRcx/wS/rQ4s1cPZBJ+ibs2+DS4mvbaLXb9/aRkwA098+SCE3DPDof12lcDd9EEDs9XLpktztU9jrqHQqVgfAeH3m73ecXMTk3JCpV6n1hKskzk/SLXV6DiDIN/9Z479dP0TA9ouafShGfqOQCRXZqjYylj4gyLNDMzG0fyEnxVG5padZRCrdGc0rKSCVBiuBMv+w8M6063jbqTMTlA/M46GBOGa/DgpYlY6fk3uaOAhvyY7QFGMYCjzXWHhQRRX5jvw4/cvp9LhKhzUihfWJij5zGNzVfxp10Nhr9F83M44U8IaDdOMGatYfoxP38qv07WwgjZ2VFJvrNZZWU8w3n6xIeFKQ3lp30lpg30N6OIXQUmAwmNSR8wwiF5FDFEdtX7jZ7OmCSAYCbqsSsr6JTcHzsXZ06y2xdW700YqtuZve/8CzulvmwplbmRzdHJlYW0KZW5kb2JqCjEgMCBvYmoKPDwvVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSIF0KL0NvdW50IDEKL01lZGlhQm94IFswIDAgNTk1LjI4IDg0MS44OV0KPj4KZW5kb2JqCjUgMCBvYmoKPDwvVHlwZSAvRm9udAovQmFzZUZvbnQgL0hlbHZldGljYS1Cb2xkCi9TdWJ0eXBlIC9UeXBlMQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKNiAwIG9iago8PC9UeXBlIC9Gb250Ci9CYXNlRm9udCAvSGVsdmV0aWNhCi9TdWJ0eXBlIC9UeXBlMQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKMiAwIG9iago8PAovUHJvY1NldCBbL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSV0KL0ZvbnQgPDwKL0YxIDUgMCBSCi9GMiA2IDAgUgo+PgovWE9iamVjdCA8PAo+Pgo+PgplbmRvYmoKNyAwIG9iago8PAovUHJvZHVjZXIgKFB5RlBERiAxLjcuMiBodHRwOi8vcHlmcGRmLmdvb2dsZWNvZGUuY29tLykKL0NyZWF0aW9uRGF0ZSAoRDoyMDI2MDMzMTE1NTg1MikKPj4KZW5kb2JqCjggMCBvYmoKPDwKL1R5cGUgL0NhdGFsb2cKL1BhZ2VzIDEgMCBSCi9PcGVuQWN0aW9uIFszIDAgUiAvRml0SCBudWxsXQovUGFnZUxheW91dCAvT25lQ29sdW1uCj4+CmVuZG9iagp4cmVmCjAgOQowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDA3NjkgMDAwMDAgbiAKMDAwMDAwMTA1MyAwMDAwMCBuIAowMDAwMDAwMDA5IDAwMDAwIG4gCjAwMDAwMDAwODcgMDAwMDAgbiAKMDAwMDAwMDg1NiAwMDAwMCBuIAowMDAwMDAwOTU3IDAwMDAwIG4gCjAwMDAwMDExNjcgMDAwMDAgbiAKMDAwMDAwMTI3NiAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9TaXplIDkKL1Jvb3QgOCAwIFIKL0luZm8gNyAwIFIKPj4Kc3RhcnR4cmVmCjEzNzkKJSVFT0YK</wd:Base64>
+    </wd:attachments_group>
+  </wd:Report_Entry>
+</wd:Report_Data>
