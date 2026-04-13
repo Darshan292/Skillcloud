@@ -519,7 +519,7 @@ if st.button("Process Resumes"):
             """
             response = llm.invoke(prompt).content
             response = response.strip().replace("```json", "").replace("```", "")
-
+            print("got response")
             data = json.loads(response)
 
             backend.add_employee(
@@ -536,6 +536,7 @@ if st.button("Process Resumes"):
 
             st.toast(f"✅ {data['full_name']} added successfully!", icon="🎉")
       except Exception as e:
+              print("Error is: ",e)
               st.error(f'Parsing failed for candidate: {record["candidate_name"]}. **Try Again**')
               # st.write(response)
 
