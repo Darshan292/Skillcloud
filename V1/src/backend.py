@@ -84,10 +84,12 @@ def parse_workday_xml(xml_path):
 def save_base64_file(base64_string, filename):
 
     file_bytes = base64.b64decode(base64_string)
-
+    print("Got bytes")
     temp_file = tempfile.NamedTemporaryFile(delete=False, suffix=f"_{filename}")
+    print("base64 writing start")
     temp_file.write(file_bytes)
     temp_file.close()
+    print("base64 writting end")
 
     return temp_file.name
 
